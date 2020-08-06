@@ -3,4 +3,6 @@
 
 For detailed information please visit my <a href="https://alimoncul.github.io/" target="_blank">portfolio website</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alimoncul)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alimoncul&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimoncul&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
